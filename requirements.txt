@@ -1,0 +1,2 @@
+# Dependencias Python
+# Este projeto usa apenas bibliotecas padrao
